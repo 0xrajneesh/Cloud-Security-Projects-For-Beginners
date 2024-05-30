@@ -6,7 +6,7 @@ This repository contains five beginner-level projects focused on cloud security 
 
 ## Projects
 
-### 1. [Introduction to Cloud Security: Securing AWS EC2 Instances](project1.md)
+### 1. [Introduction to Cloud Security: Securing AWS EC2 Instances](https://github.com/0xrajneesh/Cloud-Security-Projects-For-Beginners/blob/main/Project-1-Securing-AWS-EC2-Instances.md)
 
 In this project, you will learn how to secure AWS EC2 instances. You'll cover setting up security groups, configuring key pairs for SSH access, and implementing best practices for securing EC2 instances.
 
