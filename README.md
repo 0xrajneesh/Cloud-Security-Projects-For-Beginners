@@ -45,14 +45,14 @@ In this project, you will learn to monitor and log activities in Azure using Azu
 
 1. **Clone the Repository:**
     ```bash
-    git clone https://github.com/yourusername/cloud-security-projects.git
-    cd cloud-security-projects
+    git clone https://github.com/0xrajneesh/Cloud-Security-Projects-For-Beginners
+    cd Cloud-Security-Projects-For-Beginners
     ```
 
 2. **Navigate to Each Project Directory:**
     Each project has its own markdown file with detailed instructions. For example:
     ```bash
-    cd project1
+    cd Cloud-Security-Projects-For-Beginners
     ```
 
 3. **Follow the Instructions:**
