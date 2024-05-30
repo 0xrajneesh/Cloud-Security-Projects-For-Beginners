@@ -13,28 +13,28 @@ In this project, you will learn how to secure AWS EC2 instances. You'll cover se
 - **Key Topics:** Security Groups, Key Pairs, SSH Access, Instance Security
 - **Tools:** AWS Management Console, AWS CLI, SSH Client
 
-### 2. [Azure Fundamentals: Implementing Network Security Groups (NSGs)](project2.md)
+### 2. [Azure Fundamentals: Implementing Network Security Groups (NSGs)](https://github.com/0xrajneesh/Cloud-Security-Projects-For-Beginners/blob/main/Project-2-Implementing-Network-Security-Groups(NSGs)-on-Azure.md)
 
 This project teaches you how to secure Azure Virtual Machines (VMs) using Network Security Groups (NSGs). You will learn to create VMs, configure NSGs, and apply security rules.
 
 - **Key Topics:** Network Security Groups, Inbound and Outbound Rules, VM Security
 - **Tools:** Azure Management Portal, Azure CLI
 
-### 3. [Google Cloud Platform Basics: Configuring IAM Policies](project3.md)
+### 3. [Google Cloud Platform Basics: Configuring IAM Policies](https://github.com/0xrajneesh/Cloud-Security-Projects-For-Beginners/blob/main/Project-3-Configuring-IAM-Policies-on-GCP-Cloud-md)
 
 Learn how to configure Identity and Access Management (IAM) policies on Google Cloud Platform. This project covers creating service accounts, assigning roles, and implementing IAM policies.
 
 - **Key Topics:** IAM Policies, Service Accounts, Role Assignments
 - **Tools:** Google Cloud Console, Google Cloud SDK
 
-### 4. [Securing Data in AWS S3 Buckets](project4.md)
+### 4. [Securing Data in AWS S3 Buckets](https://github.com/0xrajneesh/Cloud-Security-Projects-For-Beginners/blob/main/Project-4-Securing-Data-In-AWS-S3-Bucket.md)
 
 This project focuses on securing data stored in AWS S3 buckets. You will learn to create S3 buckets, enable encryption, set bucket policies, and configure access logs.
 
 - **Key Topics:** S3 Bucket Policies, Encryption, Access Logs
 - **Tools:** AWS Management Console, AWS CLI
 
-### 5. [Monitoring and Logging in Azure with Azure Security Center](project5.md)
+### 5. [Monitoring and Logging in Azure with Azure Security Center](https://github.com/0xrajneesh/Cloud-Security-Projects-For-Beginners/blob/main/Project-5-Monitoring-and-Logging-in-Azure-with-Azure-Security-Center.md)
 
 In this project, you will learn to monitor and log activities in Azure using Azure Security Center. You'll cover setting up Security Center, configuring security policies, and responding to security alerts.
 
